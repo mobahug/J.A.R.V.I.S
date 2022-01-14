@@ -19,4 +19,4 @@ in order to make the assistant to work.
 
 After the installations, just run the program and speak with your new assistant!
 
-![Alt Text](https://tenor.com/view/jarvs-ironman-avengers-gif-21911443)
+# <p align="center"><img src="UI\ReadmeHeader.gif" alt="JARVIS" width="100%"/></a></p>
