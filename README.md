@@ -17,5 +17,10 @@ in order to make the assistant to work.
 5.`pip install pyjokes`
 6.`pip install googlesearch.py`
 
+1. `KNOWN_HOSTS`
+2. `SSH_PRIVATE_KEY`
+3. `USER_EMAIL`
+4. `USER_NAME`
+5. `VOGSPHERE_REPO`
 
 After the installations, just run the program and speak with your new assistant!
