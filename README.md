@@ -19,8 +19,4 @@ in order to make the assistant to work.
 
 After the installations, just run the program and speak with your new assistant!
 
-
-
-
-https://user-images.githubusercontent.com/83179142/149490488-8b30c3b7-6aed-422b-963e-616ddfd713ad.gif
-
+<div class="tenor-gif-embed" data-postid="21911443" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/jarvs-ironman-avengers-gif-21911443">Jarvs Ironman GIF</a>from <a href="https://tenor.com/search/jarvs-gifs">Jarvs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
