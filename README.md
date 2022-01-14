@@ -22,5 +22,5 @@ After the installations, just run the program and speak with your new assistant!
 
 
 
-https://user-images.githubusercontent.com/83179142/149490488-8b30c3b7-6aed-422b-963e-616ddfd713ad.mp4
+https://user-images.githubusercontent.com/83179142/149490488-8b30c3b7-6aed-422b-963e-616ddfd713ad.gif
 
