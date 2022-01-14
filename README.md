@@ -9,13 +9,13 @@ search on google, wikipedia and read for you, do jokes etc..
 
 After you cloned the repository still have to install via terminal few things
 in order to make the assistant to work.
-<div
-  ```pip install SpeechRecognition```
-  ```pip install pyttsx3```
-  ```pip install pywhatkit```
-  ```pip install wikipedia```
-  ```pip install pyjokes```
-  ```pip install googlesearch.py```
-<div/>
+<div>
+  ```pip install SpeechRecognition``` <br>
+  ```pip install pyttsx3``` <br>
+  ```pip install pywhatkit``` <br>
+  ```pip install wikipedia``` <br>
+  ```pip install pyjokes``` <br>
+  ```pip install googlesearch.py``` <br>
+</div>
 
 After the installations, just run the program and speak with your new assistant!
