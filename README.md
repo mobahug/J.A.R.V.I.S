@@ -9,8 +9,8 @@ search on google, wikipedia and read for you, do jokes etc..
 
 After you cloned the repository still have to install via terminal few things
 in order to make the assistant to work.
-<div/>
-  ```pip install SpeechRecognition``` < br />
+<div
+  ```pip install SpeechRecognition```
   ```pip install pyttsx3```
   ```pip install pywhatkit```
   ```pip install wikipedia```
