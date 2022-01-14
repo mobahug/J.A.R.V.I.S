@@ -19,4 +19,5 @@ in order to make the assistant to work.
 
 After the installations, just run the program and speak with your new assistant!
 
-# <p align="center"><img src="UI\ReadmeHeader.gif" alt="JARVIS" width="100%"/></a></p>
+
+![ReadmeHeader](https://user-images.githubusercontent.com/83179142/149492921-551ccaf6-3e2b-4902-a91b-135eccc474c9.gif)
